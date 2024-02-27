@@ -27,7 +27,7 @@ def template_query(filepath: Union[Path, str],
         query_template = "".join(f.readlines())
     query = jinja2.Template(query_template).render(mapping)
     if verbose:
-        print('/n', query, '/n')
+        print('\n', query, '\n')
 
     return query
 
