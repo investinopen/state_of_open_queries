@@ -1,0 +1,11 @@
+SELECT
+    {% for element_name in elements.keys() %}
+    {{  elements[element_name].select_statement}} {{ elements[element_name].output_name }}
+    {%  endfor %}
+FROM
+    {{ tablename }}
+WHERE
+    {%  for orgname in orgnames %}
+    lower({{ targetfield }}) LIKE "%{{ orgname }}%"
+        {% if not loop.last %}OR{% endif %}
+    {%  endfor %}
