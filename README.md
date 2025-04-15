@@ -1,4 +1,24 @@
-# ioi-openaire-queries
+# udpates for 2025 report
+
+Search terms:
+The list of search terms was expanded and is now in the file "search_terms_all20241014.csv" under the search_terms folder.
+
+Openaire:
+The updated openaire data dump was ingested into the COKI Academic Observatory as before using: https://github.com/The-Academic-Observatory/openaire-ingest. 
+The "openaire-relations-project.sql" in the queries folder has been updated to point to the updated openaire table on BigQuery.
+The updated search query for relevant projects in openaire is "search-query-openaire.sql" in the queries folder. 
+
+Scraped funder data:
+The updated search query for all scraped data from funders (scraper at https://github.com/investinopen/state_of_open_funder_data_scrapers) is "search-query-scraped-funders.sql" in the queries folder.
+
+USASpending:
+The queries used to search for projects/awards from data downloaded from USASpending, for DOD, HHS, IMLS, and NASA, respectively, are in the queries folder
+"search-query-usaspending-dod.sql"
+"search-query-usaspending-hhs.sql"
+"search-query-usaspending-imls.sql"
+"search-query-usaspending-nasa.sql"
+
+# ioi-openaire-queries (2024 report)
 Queries used to search for open infrastructure and funder data in openaire
 
 Step 1:
