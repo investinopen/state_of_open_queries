@@ -1,4 +1,4 @@
-# udpates for 2025 report
+# Updates for 2025 report
 
 Search terms:  
 The list of search terms was expanded and is now in the file "search_terms_all20241014.csv" under the search_terms folder.
