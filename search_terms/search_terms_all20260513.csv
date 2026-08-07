@@ -1,0 +1,135 @@
+﻿2i2c, 2i2c,^2i2c| 2i2c,^2i2c| 2i2c
+academic preservation trust (aptrust),academic preservation trust|aptrust,academic preservation trust|aptrust,academic preservation trust|aptrust
+africarxiv,africarxiv|africa arxiv,africarxiv|africa arxiv,africarxiv|africa arxiv
+arches heritage data management platform,archesproject|arches heritage data management platform|arches data management platform| arches project|arches open source project,archesproject|arches heritage data management platform|arches data management platform| arches project|arches open source project,archesproject|arches heritage data management platform|arches data management platform| arches project|arches open source project
+archipelago commons,archipelago commons,archipelago commons,archipelago commons
+archival resource key,archival resource key|ark identifier,archival resource key|ark identifier,archival resource key|ark identifier
+archivematica,archivematica,archivematica,archivematica
+archivesspace,archivesspace,archivesspace,archivesspace
+argos,^argos| argos\W| argos ,^argos| argos\W| argos ,argos
+arxiv, arxiv[^0-9a-z:],^arxiv| arxiv[^0-9a-z:],^arxiv| arxiv[^0-9a-z:]
+atom,atom.*artefactual|artefactual.*atom,atom.*artefactual|artefactual.*atom,atom.*artefactual|artefactual.*atom
+avalon media system,avalon,avalon,avalon
+biodiversity heritage library,biodiversity heritage library|^bhl | bhl ,biodiversity heritage library|^bhl | bhl ,biodiversity heritage library|^bhl | bhl$
+biorxiv,biorxiv|openrxiv,biorxiv|openrxiv,biorxiv|openrxiv
+bitcurator environment,bitcurator,bitcurator,bitcurator
+blacklight,blacklight,blacklight,blacklight
+brcris,brcris|brazilian cris|brazilian current research information system,brcris|brazilian cris|brazilian current research information system,brcris|brazilian cris|brazilian current research information system
+browsertrix,browsertrix,browsertrix,browsertrix
+clockss,clockss,clockss,clockss
+coar international repository directory (ird),^coar [^n]| coar[\p{P}]| coar [^n]| coar$,^coar [^n]| coar[\p{P}]| coar [^n]| coar$,^coar [^n]| coar [^n]| coar$|^coar$
+coar notify,^coar notify| coar notify,^coar notify| coar notify,^coar notify| coar notify
+collectiveaccess,collectiveaccess|whirl-i-gig,collectiveaccess|whirl-i-gig,collectiveaccess|whirl-i-gig
+core,core\.ac\.uk|core (connecting repositories)|core (research service)|connecting repositories,core\.ac\.uk|core (connecting repositories)|core (research service)|connecting repositories,core\.ac\.uk|core (connecting repositories)|core (research service)|connecting repositories
+counter code of practice,counter code of practice|counter metrics|project counter,counter code of practice|counter metrics|project counter,counter code of practice|counter metrics|project counter
+creative commons licenses,creative commons licenses,creative commons licenses,creative commons licenses
+crossref,crossref\W,crossref\W,crossref\W
+d4science infrastructure,d4science,d4science,d4science
+dart (digital archivist's resource tool),digital archivist's resource tool|digital archivist resource tool,digital archivist's resource tool|digital archivist resource tool,digital archivist's resource tool|digital archivist resource tool
+database information system (dbis),^dbis | dbis|deutsche gesellschaft .* informationswissenschaft,^dbis | dbis|deutsche gesellschaft .* informationswissenschaft,^dbis| dbis$|deutsche gesellschaft .* informationswissenschaft
+data citation corpus,data citation corpus,data citation corpus,data citation corpus
+datacite,datacite,datacite,datacite
+datalumos,datalumos,datalumos,datalumos
+data stewardship wizard,data stewardship wizard|ds wizard| dsw |^dsw\W,data stewardship wizard|ds wizard| dsw |^dsw\W,data stewardship wizard|ds wizard| dsw |^dsw\W
+dataverse,dataverse,dataverse,dataverse
+directory of open access books (doab),directory of open access books| doab ,directory of open access books|^doab | doab ,directory of open access books|^doab | doab 
+dlcm backend,dlcm backend|data life cycle management backend,dlcm backend|data life cycle management backend,dlcm backend|data life cycle management backend
+dlcm portal,dlcm portal|data life cycle management portal,dlcm portal|data life cycle management portal,dlcm portal|data life cycle management portal
+dmptool,dmptool|data management plan tool,dmptool|data management plan tool,dmptool|data management plan tool
+directory of open access journals (doaj),directory of open access journals|doaj,directory of open access journals|doaj,directory of open access journals|doaj
+dokieli,dokieli,dokieli,dokieli
+dryad,dryad,dryad,dryad
+dspace, dspace|duraspace,^dspace| dspace|duraspace,^dspace| dspace|duraspace
+duracloud,duracloud,duracloud,duracloud
+eduid.africa,eduid.africa|eduid africa,eduid.africa|eduid africa,eduid.africa|eduid africa
+electronic journals library (ezb),ezb|electronic journals library|elektronische zeitschriftenbibliothek,ezb|electronic journals library|elektronische zeitschriftenbibliothek,ezb|electronic journals library|elektronische zeitschriftenbibliothek
+episciences,episciences,episciences,episciences
+eprints,^eprints.*repositor|repositor.* eprints| eprints,^eprints.*repositor|repositor.* eprints| eprints,^eprints.*repositor|repositor.* eprints| eprints
+érudit,érudit| erudit ,érudit| erudit |^erudit ,érudit| erudit |^erudit 
+europe pmc,europe pmc|europe pubmed central,europe pmc|europe pubmed central,europe pmc|europe pubmed central
+fairicat,fairicat,fairicat,fairicat
+fair signposting,fair signposting,fair signposting,fair signposting
+fair wizard,fair wizard,fair wizard,fair wizard
+fedora,fedora,fedora,fedora
+fido,format identification for digital objects|fido.*digital object|digital object.*fido,format identification for digital objects|fido.*digital object|digital object.*fido,format identification for digital objects|fido.*digital object|digital object.*fido
+folio,^folio | folio,^folio | folio,^folio | folio
+fulcrum,fulcrum,fulcrum,fulcrum
+galaxy,usegalaxy|galaxy platform|galaxy open.source system,usegalaxy|galaxy platform|galaxy open.source system,usegalaxy|galaxy platform|galaxy open.source system
+geoserver,geoserver,geoserver,geoserver
+hyku,hyku,hyku,hyku
+hyrax,hyrax,hyrax,hyrax
+icpsr,inter-university consortium for political and social research|icpsr,inter-university consortium for political and social research|icpsr,inter-university consortium for political and social research|icpsr
+iiif,iiif|international image interoperability framework,iiif|international image interoperability framework,iiif|international image interoperability framework
+impactu,impactu,impactu,impactu
+international generic sample number (igsn),international generic sample number|international geo sample number|igsn,international generic sample number|international geo sample number|igsn,international generic sample number|international geo sample number|igsn
+invenio rdm,invenio rdm,invenio rdm,invenio rdm
+irods,irods|integrated rule-oriented data system,irods|integrated rule-oriented data system,irods|integrated rule-oriented data system
+islandora,islandora,islandora,islandora
+janeway,janeway,janeway,janeway
+jhove,jhove|harvard object validation environment,jhove|harvard object validation environment,jhove|harvard object validation environment
+journal article tag suite,journal article tag suite|jats,journal article tag suite|jats,journal article tag suite|jats
+keepers registry,keepers registry,keepers registry,keepers registry
+knowledge commons,knowledge commons|humanties commons,knowledge commons|humanties commons,knowledge commons|humanties commons
+la referencia,la referencia,la referencia,la referencia
+manifold,manifoldapp|manifold scholarship,manifoldapp|manifold scholarship,manifoldapp|manifold scholarship
+medrxiv,medrxiv,medrxiv,medrxiv
+mendeley data,mendeley data,mendeley data,mendeley data
+metadata encoding and transmission standard (mets),metadata encoding.*transmission standard|mets schema,metadata encoding.*transmission standard|mets schema,metadata encoding.*transmission standard|mets schema
+mirador,mirador,mirador,mirador
+mukurtu,mukurtu,mukurtu,mukurtu
+mycore,mycore,mycore,mycore
+numpy,numpy,numpy,numpy
+oapen library,oapen|open access publishing in european networks,oapen|open access publishing in european networks,oapen|open access publishing in european networks
+oa report,oa.report,oa.report,oa.report
+oa switchboard,oa switchboard|open access switchboard,oa switchboard|open access switchboard,oa switchboard|open access switchboard
+omeka, omeka,^omeka| omeka,^omeka| omeka
+openaire graph,openaire,openaire,openaire
+openalex,openalex,openalex,openalex
+openapc,openapc,openapc,openapc
+open archives initiative object reuse and exchange (oai-ore),open archives initiative object.*reuse|oai-ore,open archives initiative object.*reuse|oai-ore,open archives initiative object.*reuse|oai-ore
+open archives initiative protocol for metadata harvesting (oai-pmh),open archives initiative protocol for metadata harvesting|oai-pmh,open archives initiative protocol for metadata harvesting|oai-pmh,open archives initiative protocol for metadata harvesting|oai-pmh
+open archives initiative resourcesync framework specification,open archives initiative resourcesync framework specification,open archives initiative resourcesync framework specification,open archives initiative resourcesync framework specification
+open book collective,open book collective|^obc | obc | obc$,open book collective|^obc | obc | obc$,open book collective|^obc$
+opencitations,opencitations,opencitations,opencitations
+opencost,opencost,opencost,opencost
+open data editor,open data editor,open data editor,open data editor
+openedition,openedition,openedition,openedition
+open journal systems (ojs),open journal systems| ojs ,open journal systems| ojs |^ojs ,open journal systems| ojs |^ojs 
+open monograph press (omp),open monograph press,open monograph press,open monograph press
+open policy finder (formerly sherpa services),sherpa|opendoar,sherpa|opendoar,sherpa|opendoar
+open preprint systems (ops),open preprint systems,open preprint systems,open preprint systems
+openverse,openverse,openverse,openverse
+o portal brasileiro de publicações e dados científicos em acesso aberto (the brazilian open access publications and scientific data portal) (oasisbr),o portal brasileiro de publicações e dados científicos em acesso aberto|the brazilian open access publications and scientific data portal|oasisbr,o portal brasileiro de publicações e dados científicos em acesso aberto|the brazilian open access publications and scientific data portal|oasisbr,o portal brasileiro de publicações e dados científicos em acesso aberto|the brazilian open access publications and scientific data portal|oasisbr
+osf (open science framework),open science framework| osf ,open science framework| osf |^osf ,open science framework| osf |^osf 
+oxford common file layout,oxford common file layout|ocfl,oxford common file layout|ocfl,oxford common file layout|ocfl
+peer community in,peer community in|peercommunityin|^pci.*preprint|preprint.*pci ,peer community in|peercommunityin|^pci.*preprint|preprint.*pci ,peer community in|peercommunityin|^pci$
+pkp preservation network,pkp preservation network,pkp preservation network,pkp preservation network
+premis,^premis | premis | premis ,^premis | premis | premis ,^premis$| premis$
+prereview,prereview,prereview,prereview
+pressbooks,pressbooks,pressbooks,pressbooks
+public access submission system,public access submission system,public access submission system,public access submission system
+public utility data liberation (pudl),public utility data liberation|pudl,public utility data liberation|pudl,public utility data liberation|pudl
+pundit,pundit,pundit,pundit
+pyopensci,pyopensci,pyopensci,pyopensci
+re3data,re3data|registry of research data repositories,re3data|registry of research data repositories,re3data|registry of research data repositories
+redi,^redi | redi |red de investigadores ecuatorianos,^redi | redi |red de investigadores ecuatorianos,^redi | redi |red de investigadores ecuatorianos
+regensburger verbundklassifikation (rvk),regensburg classification|regensburger verbundklassifikation|rvk,regensburg classification|regensburger verbundklassifikation|rvk,regensburg classification|regensburger verbundklassifikation|rvk
+renku,renku,renku,renku
+repec,repec|research papers in economics,repec|research papers in economics,repec|research papers in economics
+research organization registry (ror),research organization registry,research organization registry| ror |^ror ,research organization registry| ror |^ror 
+research resource identification initiative,^rrid | rrid\W|research resource identifi,^rrid | rrid\W|research resource identifi,^rrid | rrid |^rrid$|research resource identifi
+rogue scholar,rogue scholar,rogue scholar,rogue scholar
+ropensci,ropensci,ropensci,ropensci
+rspace,^rspace| rspace|researchspace|research orchestrator,^rspace| rspace|researchspace|research orchestrator,^rspace| rspace|researchspace|research orchestrator
+sciety,sciety,sciety,sciety
+synapse,synapse.*cloud.based|cloud.based.*synapse|sage synapse|sage bionetworks synapse,synapse.*cloud.based|cloud.based.*synapse|sage synapse|sage bionetworks synapse,synapse.*cloud.based|cloud.based.*synapse|sage synapse|sage bionetworks synapse
+tagteam,tagteam,tagteam,tagteam
+thoth open metadata,thoth,thoth,thoth
+tropy,^tropy| tropy,^tropy| tropy,^tropy| tropy
+verapdf,verapdf,verapdf,verapdf
+viper,viper ,viper ,^viper$|viper$
+vireo etd,vireo,vireo,vireo
+vivo,^vivo .*open source|open source.*vivo,^vivo .*open source|open source.*vivo,^vivo |^vivo$
+vufind,vufind,vufind,vufind
+zenodo,zenodo,zenodo,zenodo
+zotero,zotero,zotero,zotero
