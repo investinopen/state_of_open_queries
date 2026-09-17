@@ -1,0 +1,60 @@
+alspac,alspac[^0-9a-z]|avon longitudinal study of parents and children|children of the 90,alspac[^0-9a-z]|avon longitudinal study of parents and children|children of the 90,alspac[^0-9a-z]|avon longitudinal study of parents and children|children of the 90
+born in bradford,borninbradford|born in bradford,borninbradford|born in bradford,borninbradford|born in bradford
+uk biobank,united kingdom biobank|uk biobank,united kingdom biobank|uk biobank,united kingdom biobank|uk biobank
+our future health,our future health|accelerating detection of disease,our future health|accelerating detection of disease,our future health|accelerating detection of disease
+twins uk,twins uk|twins united kingdom|adult twin registry|twinsuk,twins uk|twins united kingdom|adult twin registry|twinsuk,twins uk|twins united kingdom|adult twin registry|twinsuk
+healthy lives - malawi,healthy lives malawi|healthy lives - malawi,healthy lives malawi|healthy lives - malawi,healthy lives malawi|healthy lives - malawi
+100 million brazilian cohort,100 million brazilian|100 milhões de brasileiros,100 million brazilian|100 milhões de brasileiros,100 million brazilian|100 milhões de brasileiros
+global minds,global minds|globalminds,global minds|globalminds,global minds|globalminds
+china kadoorie biobank,china kadoorie biobank|[^0-9a-z]ckb[^0-9a-z],china kadoorie biobank|[^0-9a-z]ckb[^0-9a-z],china kadoorie biobank|[^0-9a-z]ckb[^0-9a-z]
+atlas of longitudinal population studies,atlas of longitudinal,atlas of longitudinal,atlas of longitudinal
+apcc cohorts,apcc cohort|african population cohort,apcc cohort|african population cohort,apcc cohort|african population cohort
+flybase,flybase,flybase,flybase
+veupathdb,"veupathdb|eukaryotic pathogen, vector, and host informatics resources","veupathdb|eukaryotic pathogen, vector, and host informatics resources","veupathdb|eukaryotic pathogen, vector, and host informatics resources"
+pombase,pombase,pombase,pombase
+mouse genome database,mouse genome database,mouse genome database,mouse genome database
+european nucleotide archive,european nucleotide archive,european nucleotide archive,european nucleotide archive
+ensembl,ensembl[^0-9a-z],ensembl[^0-9a-z],ensembl[^0-9a-z]
+chembl,chembl,chembl,chembl
+nextstrain,nextstrain,nextstrain,nextstrain
+pathoplexis,pathoplexis,pathoplexis,pathoplexis
+agari,[^0-9a-z]agari[^0-9a-z]|african genomic archive,[^0-9a-z]agari[^0-9a-z]|african genomic archive,[^0-9a-z]agari[^0-9a-z]|african genomic archive
+gisaid,gisaid|global initiative on sharing all influenza data|global initiative on sharing avian influenza data,gisaid|global initiative on sharing all influenza data|global initiative on sharing avian influenza data,gisaid|global initiative on sharing all influenza data|global initiative on sharing avian influenza data
+human cell atlas,human cell atlas,human cell atlas,human cell atlas
+virtual fly brain,virtual fly brain,virtual fly brain,virtual fly brain
+allen brain atlas,allen brain atlas,allen brain atlas,allen brain atlas
+protein data bank,protein data bank,protein data bank,protein data bank
+uniprot,uniprot,uniprot,uniprot
+human protein atlas,human protein atlas,human protein atlas,human protein atlas
+europe pmc,europe pmc|europe pubmed central,europe pmc|europe pubmed central,europe pmc|europe pubmed central
+image data resource,image data resource,image data resource,image data resource
+openneuro,openneuro,openneuro,openneuro
+worldpop,worldpop,worldpop,worldpop
+demographic health program,demographic health program|dhs program|demographic and health surveys,demographic health program|dhs program|demographic and health surveys,demographic health program|dhs program|demographic and health surveys
+sedri-lims,sedri-lims|sedri lims|surveillance and epidemiology of drug resistant infections laboratory information management system|arcta solutions,sedri-lims|sedri lims|surveillance and epidemiology of drug resistant infections laboratory information management system|arcta solutions,sedri-lims|sedri lims|surveillance and epidemiology of drug resistant infections laboratory information management system|arcta solutions
+dhis2,dhis2,dhis2,dhis2
+opensafely,opensafely,opensafely,opensafely
+malaria atlas project,malaria atlas project,malaria atlas project,malaria atlas project
+vector atlas,vector atlas,vector atlas,vector atlas
+malariagen,malariagen,malariagen,malariagen
+vivli,vivli,vivli,vivli
+cath,^cath[^0-9a-z-]| cath | cath[.]|cath-gene3d,^cath[^0-9a-z-]| cath | cath[.]|cath-gene3d,^cath[^0-9a-z-]| cath | cath[.]|cath-gene3d
+empiar,empiar|electron microscopy public image archive,empiar|electron microscopy public image archive,empiar|electron microscopy public image archive
+ome,open microscopy environment,open microscopy environment,open microscopy environment
+tair,^tair | tair | tair[.]|arabidopsis information resource|phoenix bioinformatics,^tair | tair | tair[.]|arabidopsis information resource|phoenix bioinformatics,^tair | tair | tair[.]|arabidopsis information resource|phoenix bioinformatics
+lipid maps,lipid maps|lipid web,lipid maps|lipid web,lipid maps|lipid web
+european centre for medium-range weather forecasts,european centre for medium-range weather forecasts|ecmwf,european centre for medium-range weather forecasts|ecmwf,european centre for medium-range weather forecasts|ecmwf
+crudata,"^crudata | crudata | crudata[.,]|^crutem | crutem | crutem[.,]","^crudata | crudata | crudata[.,]|^crutem | crutem | crutem[.,]","^crudata | crudata | crudata[.,]|^crutem | crutem | crutem[.,]"
+chirps,chirps.*rainfall|rainfall.*chirps|climate hazards center infrared precipitation with stations,chirps.*rainfall|rainfall.*chirps|climate hazards center infrared precipitation with stations,chirps.*rainfall|rainfall.*chirps|climate hazards center infrared precipitation with stations
+knmi climate explorer,knmi|climate explorer,knmi|climate explorer,knmi|climate explorer
+imerg rainfall,[^0-9a-z]imerg[^0-9a-z]|integrated multi-satellite retrievals,[^0-9a-z]imerg[^0-9a-z]|integrated multi-satellite retrievals,[^0-9a-z]imerg[^0-9a-z]|integrated multi-satellite retrievals
+global forecast system,global forecast system,global forecast system,global forecast system
+european space agency climate change initiative,european space agency climate change initiative|esa climate change,european space agency climate change initiative|esa climate change,european space agency climate change initiative|esa climate change
+desinventar sendai,desinventar sendai|disaster loss data|sendai framework monitoring system,desinventar sendai|disaster loss data|sendai framework monitoring system,desinventar sendai|disaster loss data|sendai framework monitoring system
+inform: index for risk assessment,inform risk index|inform.*index for risk assessment|index for risk assessment.*inform,inform risk index|inform.*index for risk assessment|index for risk assessment.*inform,inform risk index|inform.*index for risk assessment|index for risk assessment.*inform
+oecd data explorer,oecd data,oecd data,oecd data
+nrt global flood products,nrt global flood products|[^0-9a-z]modis[^0-9a-z]|viirs,nrt global flood products|[^0-9a-z]modis[^0-9a-z]|viirs,nrt global flood products|[^0-9a-z]modis[^0-9a-z]|viirs
+aqueduct,[^0-9a-z]aqueduct[^0-9a-z].*water|water.*[^0-9a-z]aqueduct[^0-9a-z]|aqueduct country ranking|aqueduct food|aqueduct flood,[^0-9a-z]aqueduct[^0-9a-z].*water|water.*[^0-9a-z]aqueduct[^0-9a-z]|aqueduct country ranking|aqueduct food|aqueduct flood,[^0-9a-z]aqueduct[^0-9a-z].*water|water.*[^0-9a-z]aqueduct[^0-9a-z]|aqueduct country ranking|aqueduct food|aqueduct flood
+global flood awareness system,global flood awareness system|glofas,global flood awareness system|glofas,global flood awareness system|glofas
+database for hydrological time series of inland waters,database for hydrological time series of inland waters|dahiti,database for hydrological time series of inland waters|dahiti,database for hydrological time series of inland waters|dahiti
+copernicus  climate data store,climate data store,climate data store,climate data store
