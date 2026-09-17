@@ -1,3 +1,23 @@
+# Update for 2026 special report (Wellcome)
+
+Search terms:
+The list of search terms was updated and is now in the file "search_terms_wellcome20260817.csv" under the search_terms folder.
+
+OPENAIRE results:
+The new OPENAIRE data dump used is provided by Sesame Open Science via their "sos-datasources" project on Google BigQuery. The query "query_openaire_relations_table20260513.sql" is used to extract all projects from the raw data tables. The query "query_openaire_wellcome20260817.sql" is then used to match all projects to organisations (including funders) and then filter the dataset using the search terms.
+
+OpenAlex results:
+The raw OpenAlex awards data were uploaded to COKI's Google BigQuery project from a March 2026 snapshot from "https://subugoe.github.io/scholcomm_analytics/data.html#status-openalex-walden". Due to the size of the data, two separate queries were used. First, the query "query_openalex_awards20260514_part1.sql" is used to extract only the necessary columns needed for this report, with conditions on at least some information is available on the project description, name or affiliation (these were tested as sensible conditions to have meaningful data rows for further analysis). Then a second query "query_openalex_awards20260817_part2_wellcome.sql" is used to filter the data using the search terms.
+
+Scraper results:
+Data from each scraper was uploaded to COKI's Google BigQuery project. Then the query "query_combine_all_funder_data_wellcome_2026.sql" is used to extract/filter all data tables using the search terms and then merge them into one big data table.
+
+USASpending results:
+Data from USASpending were uploaded to COKI's Google BigQuery project. These data were presented in yearly files for each agency. The yearly data were combined before being filtered using the search terms, for each agency. The queries used are "query_usaspending_dod20260817_wellcome.sql", "query_usaspending_hhs20260817_wellcome.sql", and "query_usaspending_nasa20260817_wellcome.sql".
+
+Deduplication:
+Deduplication were performed manually for the 2026 special report.
+
 # Updates for 2026 report
 
 Search terms:
